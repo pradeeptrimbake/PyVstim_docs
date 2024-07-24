@@ -6,3 +6,9 @@ url: https://pradeeptrimbake.github.io/PyVstim_docs/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+# Syntax highlighting
+highlighter: rouge
+kramdown:
+    input: GFM 
+    syntax_highlighter: rouge
