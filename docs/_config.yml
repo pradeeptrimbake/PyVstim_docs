@@ -1,0 +1,33 @@
+title: PyVStim Documentation
+description: A github pages documenting all the funtions and logic behing each stimuli that Silies Lab uses in the experiments
+theme: just-the-docs
+
+url: https://pradeeptrimbake.github.io/PyVstim_docs/
+
+# Aux links for the upper right navigation
+aux_links:
+"Just the Docs on GitHub":
+    - "//github.com/just-the-docs/just-the-docs"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
+
+
+# Syntax highlighting
+markdown: kramdown
+highlighter: rouge
+kramdown:
+    input: GFM 
+    syntax_highlighter: rouge
+
+
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: light
+
+
+# katex for all sites
+
+math: katex
+
+

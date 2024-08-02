@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Stimuli functions
-nav_order: 2
+nav_order: 3
 
 ---
 
@@ -13,8 +13,8 @@ Example Syntax:
 
 1. field_flash
 
-```
-field_flash (exp_Info,bg_ls,fg_ls,stim_texture,noise_arr,stimdict,   epoch, window, global_clock, duration_clock,outFile,out, stim_obj,dlpOK, viewpos, data,taskHandle = None, lastDataFrame = 0, lastDataFrameStartTime = 0):
+```python
+def field_flash (exp_Info,bg_ls,fg_ls,stim_texture,noise_arr,stimdict,   epoch, window, global_clock, duration_clock,outFile,out, stim_obj,dlpOK, viewpos, data,taskHandle = None, lastDataFrame = 0, lastDataFrameStartTime = 0):
 ```                
 
 Description:
