@@ -2,7 +2,6 @@
 layout: home
 title: Stimuli functions
 nav_order: 3
-
 ---
 
 # Stimuli functions
