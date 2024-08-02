@@ -16,7 +16,7 @@ math: katex
 - we decided to assume the distance (D) to be 4.8cm
 
 <!--![Figure 1: Pictures of equipment that can be used to validate the projection parameters.](/assets/fig1.png)-->
-<img src="/assets/fig1.png" alt="drawing" width="600"/> 
+<img src="\assets\fig1.png" alt="drawing" width="600"/> 
 <br>
 *Figure 1: Pictures of equipment that can be used to validate the projection parameters.*
 
@@ -29,7 +29,8 @@ math: katex
    
 2. For calculating the object size at different angular positions we calculated the delta of two object sizes:  E.g.: 10° size at position 30°: Calculate a (35°) – a (25°).
  
-<img src="/assets/fig2.png" alt="fig2" width="800"/> 
+<img src="\assets\fig2.png" alt="fig2" width="800"/> 
+
 <br>
 *Figure 2: Illustration of the current set-up showing the different parameters.*
 <br>
