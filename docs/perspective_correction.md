@@ -1,6 +1,6 @@
 ---
 title: Perspective correction
-layout: home
+layout: page
 nav_order: 2
 math: katex
 ---

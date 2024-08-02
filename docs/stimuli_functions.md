@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Stimuli functions
 nav_order: 3
 ---
